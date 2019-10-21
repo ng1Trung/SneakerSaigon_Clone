@@ -1,0 +1,475 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    margin: 0 auto;
+    width: 1240px; 
+}
+#header .container{
+    display: flex;
+    align-items: center;
+}
+#img{
+    margin-right: 50px;
+}
+.list-name {
+    width: 100%;
+    height: 100%;
+}
+#infor-menu {
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    
+}
+
+.infor-menu-list{
+    list-style-type: none;
+    margin-right: 50px
+    
+}
+
+#nav-bar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#search-logo{
+    width:27px;
+    height: 26px;
+    
+}
+
+
+#shopping-logo {
+    width: 30px;
+    height: 26px;
+}
+
+#phone-logo:hover{
+    animation: shake 0.5s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(0deg) scale(1.5); }
+        10% { transform: translate(-1px, -2px) rotate(-1deg) scale(1.5); }
+        20% { transform: translate(-3px, 0px) rotate(1deg) scale(1.5); }
+        30% { transform: translate(3px, 2px) rotate(0deg) scale(1.5); }
+        40% { transform: translate(1px, -1px) rotate(1deg) scale(1.5); }
+        50% { transform: translate(-1px, 2px) rotate(-1deg) scale(1.5); }
+        60% { transform: translate(-3px, 1px) rotate(0deg) scale(1.5); }
+        70% { transform: translate(3px, 1px) rotate(-1deg) scale(1.5); }
+        80% { transform: translate(-1px, -1px) rotate(1deg) scale(1.5); }
+        90% { transform: translate(1px, 2px) rotate(0deg) scale(1.5); }
+        100% { transform: translate(1px, -2px) rotate(-1deg) scale(1.5);}
+}
+
+#hotline{
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 14px;
+
+}
+
+.logo{
+    height: 5px;
+}
+
+#search-bar{
+    border: 1px solid gray;
+    border-radius: 6px;
+    height: 15px;
+    position: relative;
+    right: 9em;
+    top: 5px;
+    height: 19px;
+    display: block;
+}
+
+#infor-menu .infor-menu-list:hover .list-name{
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+
+#product-menu{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.infor-menu-list #menu-list #menu-bar > #product-menu{
+    display:none; 
+}
+
+#product-menu{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+    transition:0s 180s;
+}
+
+#infor-menu #product:hover #product-menu{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+    position: absolute;
+    top: 57px;
+    background-color: rgb(39, 36,37);
+    width: 1010px;
+    right: 201px;
+    height: 200px;
+    
+}
+
+#product-menu div{
+
+    margin-left: 50px;
+    line-height: 45px;  
+    font-size: 17px;
+    position: relative;
+    right: 40px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight:bold; 
+}
+
+#product-menu:hover div .list-product-menu{
+    display: block; 
+    background: #676767;
+
+}
+
+.courasel-large-img{
+    margin: 0 auto;
+    width: 1240px;
+    height: 510px;
+ }
+
+ #service{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid grey;
+    position: relative;
+    bottom: 32px;
+ }
+
+ #service div{
+     text-align: center;
+     width: 300px;
+     height: 90px;
+ }
+
+ #service div p{
+     font-size: 15px;
+     line-height: 25px;
+     text-align: center; 
+     position: relative;
+     top: 5px;
+     font-weight: bolder;   
+ }
+
+
+ .detail{
+    font-size: 13px;
+    font-weight: lighter;
+
+ }
+
+ #title{
+
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+ }
+
+ #list-img{
+     position: relative;
+     top: 33px;
+ }
+
+
+ #list-img-1{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+ }
+
+ #list-img-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+#list-img-1 div{
+
+    margin-left: 39px;
+    margin-bottom: 20px;
+    position: relative;
+
+}
+
+#img-1 .black-ground {
+    display: none;
+    position: absolute;
+}
+#img-1:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;    
+}
+.sub{
+
+    position: relative;
+    top: 20px;
+    right: 95px;
+}
+#img-2 .black-ground {
+    display: none;
+    position: absolute;
+}
+
+#img-2:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;
+}
+.sub-2{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 220px;
+}
+
+#img-3 .black-ground {
+    display: none;
+    position: absolute;
+}
+
+#img-3:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;
+}
+
+#list-img-2 div{
+    margin-left: 39px;
+    position: relative;
+}
+#img-4 .black-ground{
+    display: none;
+    position: absolute;
+}
+
+#img-4:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;
+}
+.sub-4{
+    position: absolute;
+    width: 300px;
+    top: 30px;
+}
+
+#img-5 .black-ground{
+    display: none;
+    position: absolute;
+}
+
+#img-5:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;
+}
+.sub-5{
+    position: absolute;
+    width: 170px;
+    top: 27px;
+    left: 22px;
+}
+#img-6 .black-ground{
+    display: none;
+    position: absolute;
+}
+
+#img-6:hover .black-ground{
+    background: rgba(0, 0, 0, 0.27);
+    display:block;
+    position: absolute;
+    bottom:10px;
+    right: 10px;
+    top: 10px;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    opacity: 1;
+    font-size: 30px;
+    color: white;
+}
+
+#feed-back{
+
+    position: relative;
+    top: 4em;
+    left: 137px;
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+#feed-back-row-1{
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+#feed-back-row-1 div{
+
+    margin-left: 7px;
+    margin-bottom: 6px;
+}
+
+
+#feed-back-row-2{
+
+    display: flex;
+    flex-direction: row;
+}
+
+#feed-back-row-2 div{
+    margin-left: 7px;
+}
+.feed-back-img{
+    position: relative;
+    width:178px;
+    height:145px;
+}
+
+.feed-back-img-click{
+    width:178px;
+    height:145px;
+    margin: 0;
+	padding: 0;
+	background: #fff;
+    overflow: hidden;
+    position: absolute;
+}
+
+.feed-back-img .feed-back-img-click img{
+	transform: scale(1);
+    transition: .3s ease-in-out;
+    
+
+}
+.feed-back-img .feed-back-img-click:hover img{
+    transform: scale(1.2);
+}
+
+#feed-back-facebook{
+
+    position: relative;
+    top: 5px;
+    left: 26px;
+
+}
+#iframe-src{
+
+    position: relative;
+    bottom:5px;
+
+}
+ 
+.own-product-img{
+    width: 273px;
+    height: 273px;
+}
+
+
+
+#best-seller-product{
+    position: relative;
+    top: 7em;
+}
+
+#best-seller-title{
+    display: flex;
+    justify-content: center;
+}
+
