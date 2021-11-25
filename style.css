@@ -3,6 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
 body {
     font-family: 'Roboto', sans-serif;
     position: relative;
@@ -250,7 +255,7 @@ body {
     top: 87px;
     background-color: rgb(39, 36,37);
     width: 1010px;
-    right: 215px;
+    right: 147px;
     height: 200px;
 
 }
@@ -544,7 +549,7 @@ body {
 
     position: relative;
     top: 4em;
-    left: 11em;
+    left: 6em;
     display: flex;
     flex-direction: row;
 

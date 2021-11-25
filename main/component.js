@@ -10,7 +10,7 @@ component.begin = `
 
 <div id="header">
     <div class="container">
-        <img src="../C4EJS43/Image/logo-3475.png" alt="logo Sneaker" id="img">
+        <img src="../C4E-official/Image/logo-3475.png" alt="logo Sneaker" id="img">
         <div id="nav-bar">
             <ul id="infor-menu">
                 <li class="infor-menu-list" id="product">
@@ -98,9 +98,9 @@ component.begin = `
 </div>
 
 <div class="courasel-large-img">
-    <div><img src="../C4EJS43/Image/3134083556545120.jpg" alt=""></div>
-    <div><img src="../C4EJS43/Image/219007695964179.jpg" alt=""></div>
-    <div><img src="../C4EJS43/Image/9186963780455400.jpg" alt=""></div>
+    <div><img src="../C4E-official/Image/3134083556545120.jpg" alt=""></div>
+    <div><img src="../C4E-official/Image/219007695964179.jpg" alt=""></div>
+    <div><img src="../C4E-official/Image/9186963780455400.jpg" alt=""></div>
 </div>
 
 
@@ -135,7 +135,7 @@ component.begin = `
         <section id="list-img-1">
             <div class="list-img-detail" id="img-1">
 
-                <img src="../C4EJS43/Image/389307129623491539518778414310540293177344n-9236.jpg" alt="" title="abc">
+                <img src="../C4E-official/Image/389307129623491539518778414310540293177344n-9236.jpg" alt="" title="abc">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -148,7 +148,7 @@ component.begin = `
 
             <div class="list-img-detail" id="img-2">
 
-                <img src="../C4EJS43/Image/389242734221669716107486412211556737613824n-7203.jpg" alt="">
+                <img src="../C4E-official/Image/389242734221669716107486412211556737613824n-7203.jpg" alt="">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -161,7 +161,7 @@ component.begin = `
 
             <div class="list-img-detail" id="img-3">
 
-                <img src="../C4EJS43/Image/126043e24311ee544c49b357818dadfa7ff1024x1024-8801.jpg" alt="">
+                <img src="../C4E-official/Image/126043e24311ee544c49b357818dadfa7ff1024x1024-8801.jpg" alt="">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -177,7 +177,7 @@ component.begin = `
         <section id="list-img-2">
             <div class="list-img-detail" id="img-4">
 
-                <img src="../C4EJS43/Image/3622942121802644686565547157140322462466048n-8280.jpg" alt="">
+                <img src="../C4E-official/Image/3622942121802644686565547157140322462466048n-8280.jpg" alt="">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -190,7 +190,7 @@ component.begin = `
 
             <div class="list-img-detail" id="img-5">
 
-                <img src="../C4EJS43/Image/gold-2401.png" alt="">
+                <img src="../C4E-official/Image/gold-2401.png" alt="">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -203,7 +203,7 @@ component.begin = `
 
             <div class="list-img-detail" id="img-6">
 
-                <img src="../C4EJS43/Image/19982ef2554d7fc65490f1f4ab21322c-5621.jpg" alt="">
+                <img src="../C4E-official/Image/19982ef2554d7fc65490f1f4ab21322c-5621.jpg" alt="">
 
                 <a href="#">
                     <div class="black-ground" style="color: white; ">
@@ -227,28 +227,28 @@ component.begin = `
             <div id="feed-back-row-1">
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/264854587823437 (1).jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/264854587823437 (1).jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/473408216764634.jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/473408216764634.jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/639948041610623.jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/639948041610623.jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/628141056372599.jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/628141056372599.jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
@@ -259,28 +259,28 @@ component.begin = `
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/529710322785276.jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/529710322785276.jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/923224416737248.png" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/923224416737248.png" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/036019444945783.jpg" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/036019444945783.jpg" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
 
                 <div class="feed-back-img">
                     <a href="#" class="feed-back-img-click">
-                        <img src="../C4EJS43/Image/feedback/241735645686470.png" width="178px" height="145px"
+                        <img src="../C4E-official/Image/feedback/241735645686470.png" width="178px" height="145px"
                             alt="">
                     </a>
                 </div>
@@ -325,7 +325,7 @@ component.begin = `
                     <div class="own-product-detail">
 
                         <a href="#">
-                            <img src="../C4EJS43/Image/product/img-1.jpg"   alt="" class="own-product-img">
+                            <img src="../C4E-official/Image/product/img-1.jpg"   alt="" class="own-product-img">
                         </a>
 
                         <div class="own-price">
@@ -348,7 +348,7 @@ component.begin = `
                         <div class="own-product-detail">
 
                             <a href="#">
-                                <img src="../C4EJS43/Image/product/img-2.jpg"   alt="" class="own-product-img">
+                                <img src="../C4E-official/Image/product/img-2.jpg"   alt="" class="own-product-img">
                             </a>
 
                             <div class="own-price">
@@ -371,7 +371,7 @@ component.begin = `
                             <div class="own-product-detail">
     
                                 <a href="#">
-                                    <img src="../C4EJS43/Image/product/img-3.jpg"   alt="" class="own-product-img">
+                                    <img src="../C4E-official/Image/product/img-3.jpg"   alt="" class="own-product-img">
                                 </a>
     
                                 <div class="own-price">
@@ -394,7 +394,7 @@ component.begin = `
                             <div class="own-product-detail">
     
                                 <a href="#">
-                                    <img src="../C4EJS43/Image/product/img-4.jpg"   alt="" class="own-product-img">
+                                    <img src="../C4E-official/Image/product/img-4.jpg"   alt="" class="own-product-img">
                                 </a>
     
                                 <div class="own-price">
@@ -417,7 +417,7 @@ component.begin = `
                             <div class="own-product-detail">
     
                                 <a href="#">
-                                    <img src="../C4EJS43/Image/product/img-10.jpg"   alt="" class="own-product-img">
+                                    <img src="../C4E-official/Image/product/img-10.jpg"   alt="" class="own-product-img">
                                 </a>
     
                                 <div class="own-price">
@@ -439,7 +439,7 @@ component.begin = `
                             <div class="own-product-detail">
     
                                 <a href="#">
-                                    <img src="../C4EJS43/Image/product/img-6.jpg"   alt="" class="own-product-img">
+                                    <img src="../C4E-official/Image/product/img-6.jpg"   alt="" class="own-product-img">
                                 </a>
     
                                 <div class="own-price">
@@ -462,7 +462,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-7.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-7.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -485,7 +485,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-8.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-8.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -508,7 +508,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-9.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-9.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -531,7 +531,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-12.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-12.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -554,7 +554,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-13.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-13.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -577,7 +577,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-14.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-14.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -600,7 +600,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-15.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-15.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -623,7 +623,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-15.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-15.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -646,7 +646,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/product/img-16.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/product/img-16.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -682,7 +682,7 @@ component.begin = `
                         <div class="own-product-detail">
 
                             <a href="#">
-                                <img src="../C4EJS43/Image/new product/nikewmnsairmax97ultraah6806101whitewhitebluenebula-3937.jpg"   alt="" class="own-product-img">
+                                <img src="../C4E-official/Image/new product/nikewmnsairmax97ultraah6806101whitewhitebluenebula-3937.jpg"   alt="" class="own-product-img">
                             </a>
 
                             <div class="own-price">
@@ -705,7 +705,7 @@ component.begin = `
                             <div class="own-product-detail">
     
                                 <a href="#">
-                                    <img src="../C4EJS43/Image/new product/Yung-1.jpeg"   alt="" class="own-product-img">
+                                    <img src="../C4E-official/Image/new product/Yung-1.jpeg"   alt="" class="own-product-img">
                                 </a>
     
                                 <div class="own-price">
@@ -728,7 +728,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/new product/NMD-2.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/new product/NMD-2.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -751,7 +751,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/new product/Ultra boost-3.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/new product/Ultra boost-3.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -774,7 +774,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/new product/imgs-4.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/new product/imgs-4.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -796,7 +796,7 @@ component.begin = `
                                 <div class="own-product-detail">
         
                                     <a href="#">
-                                        <img src="../C4EJS43/Image/new product/imgs-5.jpg"   alt="" class="own-product-img">
+                                        <img src="../C4E-official/Image/new product/imgs-5.jpg"   alt="" class="own-product-img">
                                     </a>
         
                                     <div class="own-price">
@@ -819,7 +819,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-6.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-6.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -842,7 +842,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-7.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-7.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -865,7 +865,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-8.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-8.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -888,7 +888,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-9.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-9.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -911,7 +911,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-10.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-10.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -934,7 +934,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-11.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-11.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -957,7 +957,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-11.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-11.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -980,7 +980,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs12.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs12.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
@@ -1003,7 +1003,7 @@ component.begin = `
                                     <div class="own-product-detail">
             
                                         <a href="#">
-                                            <img src="../C4EJS43/Image/new product/imgs-13.jpg"   alt="" class="own-product-img">
+                                            <img src="../C4E-official/Image/new product/imgs-13.jpg"   alt="" class="own-product-img">
                                         </a>
             
                                         <div class="own-price">
